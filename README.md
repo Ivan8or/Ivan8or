@@ -6,8 +6,8 @@
   pointer-events: none;
   z-index: -10;
   position: fixed;
-  top: 50%;
-  left: 50%;
+  top: 0%;
+  left: 90%;
   height: 100vh;
   object-fit: cover;
   background-color: white;
