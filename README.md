@@ -7,8 +7,8 @@
   position: fixed;
   height: 100vh;
   width: 100vw;
-  top: 5vh;
-  right: 5vw;
+  top: 10vh;
+  right: 10vw;
   object-fit: cover;
   background-color: white;
   opacity: 0.2;
