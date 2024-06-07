@@ -10,9 +10,8 @@
   left: 50%;
   height: 100vh;
   object-fit: cover;
-  background-size: cover;
   background-color: white;
-  width: 130vw;
+  width: 100vw;
   opacity: 0.5;
   background: url('https://raw.githubusercontent.com/Ivan8or/Ivan8or/master/duckwalk.gif');
   background-repeat: no-repeat;
