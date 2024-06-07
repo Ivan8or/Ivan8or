@@ -8,7 +8,7 @@
   height: 100vh;
   width: 100vw;
   top: 7vh;
-  right: -2vw;
+  right: 0;
   object-fit: cover;
   background-color: white;
   opacity: 0.2;
